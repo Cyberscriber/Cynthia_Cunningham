@@ -22,6 +22,6 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/cynthiaecunningham]
+[linkedin]: https://linkedin.com/in/cynthiaecunningham
 
 <!--
