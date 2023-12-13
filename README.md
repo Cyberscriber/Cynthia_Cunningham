@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Security Lab</b>
-  - [Network Security Lab](https://github.com/cyberscriber")
+  - [Network Security Lab](https://github.com/Cyberscriber/Network-Security)
 
 - <b>Splunk </b>
   -  [Splunk](https://github.com/github.com/cyberscriber")
