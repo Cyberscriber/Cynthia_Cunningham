@@ -5,11 +5,11 @@
 - <b>Network Security Lab</b>
   - [Network Security Lab](https://github.com/Cyberscriber/Network-Security)
 
-- <b>Splunk </b>
-  -  [Splunk](https://github.com/github.com/cyberscriber")
+- <b>Pentration Testing and Reporting </b>
+  -  [Pen Testing and Reporting](https://github.com/github.com/cyberscriber")
     
-- <b>BurpSuite </b>
-  - [Burpsuite](https://github.com/jgithub.com/cyberscriber")
+- <b>SIEM Implementationand Security Analysis </b>
+  - [SIEM Implementationand Security Analysis](https://github.com/jgithub.com/cyberscriber")
   
 - <b>Python</b>
   - [Scripts](https://github.com/github.com/cyberscriber")
