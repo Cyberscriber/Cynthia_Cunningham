@@ -9,7 +9,7 @@
   -  [Pen Testing and Reporting](https://github.com/github.com/cyberscriber")
     
 - <b>SIEM Implementationand Security Analysis </b>
-  - [SIEM Implementationand Security Analysis](https://github.com/jgithub.com/cyberscriber")
+  - [SIEM Implementation and Security Analysis](https://github.com/jgithub.com/cyberscriber")
   
 - <b>Python</b>
   - [Scripts](https://github.com/github.com/cyberscriber")
