@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Re-Created an Active Directory Lab</b>
-  - [Active Directory Home Lab](https://github.com/cyberscriber")
+- <b>Network Security Lab</b>
+  - [Network Security Lab](https://github.com/cyberscriber")
 
 - <b>Splunk </b>
   -  [Splunk](https://github.com/github.com/cyberscriber")
