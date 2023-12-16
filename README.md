@@ -8,7 +8,7 @@
 - <b>Penetration Testing and Reporting </b>
   -  [Pen Testing and Reporting](https://github.com/github.com/cyberscriber")
     
-- <b>SIEM Implementationand Security Analysis </b>
+- <b>SIEM Implementation and Security Analysis </b>
   - [SIEM Implementation and Security Analysis](https://github.com/jgithub.com/cyberscriber")
   
 - <b>Python</b>
