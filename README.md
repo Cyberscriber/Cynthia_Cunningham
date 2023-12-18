@@ -6,7 +6,10 @@
   - [Network Security Lab](https://github.com/Cyberscriber/Network-Security)
 
 - <b>Penetration Testing  </b>
-  -  [Pen Testing ](https://github.com/Cyberscriber/Penetration_Testing)
+  -  [Penetration Testing ](https://github.com/Cyberscriber/Penetration_Testing)
+
+- <b>Penetration Testing Report  </b>
+  -  [Penetration Testing Report ](https://github.com/Cyberscriber/Pentest-Report)
     
 - <b>SIEM Implementation and Security Analysis </b>
   - [SIEM Implementation and Security Analysis](https://github.com/jgithub.com/cyberscriber")
