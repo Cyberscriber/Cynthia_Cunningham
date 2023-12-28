@@ -15,7 +15,11 @@
   - [SIEM Implementation and Security Analysis](https://github.com/Cyberscriber/SIEM-Implementation-and-Security-Analysis)
     
 - <b>Azure Free Domain</b>
-  - [Azure Free Domain](https://github.com/Cyberscriber/Securing-Cloud-Applications)  
+  - [Azure Free Domain](https://github.com/Cyberscriber/Securing-Cloud-Applications)
+
+- <b>Defensive Security Lab</b>
+  - [Defensive Security Lab](https://github.com/Cyberscriber/Defensive-Security-Presentation)
+
   
 - <b>Python</b>
   - [Scripts](https://github.com/github.com/cyberscriber")
