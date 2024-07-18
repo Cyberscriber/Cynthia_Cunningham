@@ -19,6 +19,9 @@
 
 - <b>Defensive Security Lab</b>
   - [Defensive Security Lab](https://github.com/Cyberscriber/Defensive-Security-Presentation)
+ 
+- <b>Security Strategy Report</b>
+  - [Security Strategy Report](https://github.com/Cyberscriber/Security-Strategy-Report)
 
   
 - <b>Python</b>
